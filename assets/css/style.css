@@ -236,8 +236,3 @@ input[type=submit] {
   border: 0 none;
 }
 
-@include media-breakpoint-up(sm) {
-  .main-section {
-    color: red;
-  }
-}
